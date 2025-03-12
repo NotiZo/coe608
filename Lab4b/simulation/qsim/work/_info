@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\notiz\Desktop\coe608\Labs\Lab4b\simulation\qsim
+vdata_path
+Z1 !s100 OZOiT[9U_5_goIGH[h5<B2
+Z2 IHYJCFUHh:<_no@9kC24>L3
+Z3 V3B>Dkh:Wd=3Jzclm`9dYe3
+Z4 dC:\Users\notiz\Desktop\coe608\Labs\Lab4b\simulation\qsim
+Z5 w1741661305
+Z6 8Lab4b.vo
+Z7 FLab4b.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Lab4b.vo|
+Z10 o-work work -O0
+Z11 !s108 1741661305.862000
+Z12 !s107 Lab4b.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vData_Path
+Z13 !s100 jbfGWWnk`PS4LKh=T`5cb0
+Z14 IVlI4b<GZ1m993?XXiiAkG3
+Z15 Vlh[WZJ^F4MjdY?DbGb^`B0
+R4
+Z16 w1741716186
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+Z17 n@data_@path
+!i10b 1
+!s85 0
+Z18 !s108 1741716187.192000
+R12
+!s101 -O0
+vData_Path_vlg_check_tst
+!i10b 1
+Z19 !s100 UdUBPaDhKXie^8Velj<i=2
+Z20 I[8Zn_LCY[aQWga>I46GSm3
+Z21 Vn4[XNeKK7O<CI_8=6Pkf<0
+R4
+Z22 w1741716184
+Z23 8LDAI.vwf.vt
+Z24 FLDAI.vwf.vt
+Z25 L0 105
+R8
+r1
+!s85 0
+31
+Z26 !s108 1741716187.345000
+Z27 !s107 LDAI.vwf.vt|
+Z28 !s90 -work|work|LDAI.vwf.vt|
+!s101 -O0
+R10
+Z29 n@data_@path_vlg_check_tst
+vdata_path_vlg_check_tst
+Z30 !s100 0T:?O_=_`Nel27Yz2PJ=n0
+Z31 IXiPi]XI?U[BW7^Tk4ZM9h0
+Z32 VDb<SL3dHWEIA;<o[I2>bK1
+R4
+Z33 w1741661303
+R23
+R24
+R25
+R8
+r1
+31
+Z34 !s108 1741661306.061000
+Z35 !s107 LDAI.vwf.vt|
+R28
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vData_Path_vlg_sample_tst
+!i10b 1
+Z36 !s100 >=kMeJ6ICg8Xg8TSEY>QA1
+Z37 IVKbEe7_KIYjSVJ7@Q1PYd3
+Z38 VeYnBOGMUHLNLFB6RVdhP>1
+R4
+R22
+R23
+R24
+L0 29
+R8
+r1
+!s85 0
+31
+R26
+R27
+R28
+!s101 -O0
+R10
+Z39 n@data_@path_vlg_sample_tst
+vdata_path_vlg_sample_tst
+Z40 !s100 hXHXokfzY[6CAL]<QoAeL0
+Z41 IzfBg[Il5dnMM?E]]68ndi1
+Z42 V<o6IZ<OTzhNKeJA^@`7QI1
+R4
+R33
+R23
+R24
+L0 29
+R8
+r1
+31
+R34
+R35
+R28
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vData_Path_vlg_vec_tst
+!i10b 1
+Z43 !s100 m^FYMfV;V`d2lGB?lUX@Q3
+Z44 IR4LjOfSN9[kMA8GUz154<0
+Z45 V>=Nc?CQC=GJIMW;ZX0i2Q3
+R4
+R22
+R23
+R24
+Z46 L0 2544
+R8
+r1
+!s85 0
+31
+R26
+R27
+R28
+!s101 -O0
+R10
+Z47 n@data_@path_vlg_vec_tst
+vdata_path_vlg_vec_tst
+Z48 !s100 5J42T`^gRf:O<hZSX`Y<43
+Z49 IcdI0W405?]l_HeGRCXXoi3
+Z50 V<2mQW@a1]Jke01i<dn2R20
+R4
+R33
+R23
+R24
+R46
+R8
+r1
+31
+R34
+R35
+R28
+R10
+!i10b 1
+!s85 0
+!s101 -O0
